@@ -1,0 +1,11 @@
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/bin/Debug/netcoreapp2.2/hackathon_war.deps.json
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/bin/Debug/netcoreapp2.2/hackathon_war.runtimeconfig.json
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/bin/Debug/netcoreapp2.2/hackathon_war.runtimeconfig.dev.json
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/bin/Debug/netcoreapp2.2/hackathon_war.dll
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/bin/Debug/netcoreapp2.2/hackathon_war.pdb
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/obj/Debug/netcoreapp2.2/hackathon_war.csprojAssemblyReference.cache
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/obj/Debug/netcoreapp2.2/hackathon_war.csproj.CoreCompileInputs.cache
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/obj/Debug/netcoreapp2.2/hackathon_war.AssemblyInfoInputs.cache
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/obj/Debug/netcoreapp2.2/hackathon_war.AssemblyInfo.cs
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/obj/Debug/netcoreapp2.2/hackathon_war.dll
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/hackathon_war/obj/Debug/netcoreapp2.2/hackathon_war.pdb
